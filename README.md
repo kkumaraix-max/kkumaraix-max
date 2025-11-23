@@ -60,31 +60,31 @@ I’m a Software Engineer with 9 years of IT experience, specializing in DevOps,
 ---
 
 **BetaNXT - DevOps Engineer**
-**May 2024 – Present • Bengaluru, Karnataka, India (Hybrid)**  
+**May 2024 – Present**  
 - Working as a DevOps Engineer focusing on automation, infrastructure, CI/CD and cloud-native architecture.
 
 ---
 
 **IBM - Site Reliability Engineer**
-**Nov 2022 – May 2024 • Bengaluru, Karnataka, India (Hybrid)**  
+**Nov 2022 – May 2024**  
 - Ensured application reliability, monitoring, automation, and large-scale system stability.
 
 ---
 
 **Persistent Systems - Cloud Engineer**
-**Sep 2021 – Oct 2022 • Nagpur, Maharashtra, India (Remote)**  
+**Sep 2021 – Oct 2022**  
 - Built and automated cloud deployments using DevOps and multi-cloud tools.
 
 ---
 
 **HCL Technologies - Unix System Engineer**
-**May 2020 – Sep 2021 • Nagpur, Maharashtra, India (Remote)**  
+**May 2020 – Sep 2021**  
 - Managed Unix/Linux systems, automation tasks, and production operations.
 
 ---
 
 **Wipro - System Administrator**
-**Feb 2017 – Apr 2020 • Mysore, Karnataka, India (On-site)**  
+**Feb 2017 – Apr 2020**  
 - Supported infrastructure operations, troubleshooting, and system performance management.
 
 ---
