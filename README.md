@@ -4,7 +4,7 @@
 
 # 💫 About Me  
 👋 Hi, I'm **Kathoju Anil Kumar**  
-**SRE | DevOps | AWS | Terraform | Ansible | Docker | Kubernetes | Linux | Jenkins | GitHub Actions | Prometheus | Grafana | DevSecOps | Unix | IBM-AIX | IBM Power Systems**
+**SRE | DevOps | AWS | Terraform | Ansible | Docker | Kubernetes | Linux | Jenkins | GitHub Actions | Prometheus | Grafana | DevSecOps | Unix | Linux | IBM-AIX | IBM Power Systems**
 <br>
 
 <div align="center">
