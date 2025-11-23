@@ -4,7 +4,22 @@
 
 # 💫 About Me  
 👋 Hi, I'm **Kathoju Anil Kumar**  
-🚀 **DevOps Engineer | Cloud Automation | Infrastructure as Code**
+🚀 **SRE | DevOps | AWS | Terraform | Ansible | Docker | Kubernetes | Linux | Jenkins | GitHub Actions | Prometheus | Grafana | DevSecOps | Unix | IBM-AIX | IBM Power Systems**
+<br>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/anilkathoju">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:anilkathoju@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br>
 
 I’m a Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud Automation, and CI/CD for the last 4+ years, building scalable, secure, and automated cloud environments using modern DevOps tooling and Infrastructure-as-Code practices.
 
