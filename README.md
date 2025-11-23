@@ -83,7 +83,7 @@ I’m a Software Engineer with 9 years of IT experience, specializing in DevOps,
 
 ---
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Wipro_Primary_Logo_Color_RGB.svg" width="28"/> **System Administrator — Wipro**
+### <img src="https://companieslogo.com/wipro/logo/" width="28"/> **System Administrator — Wipro**
 **Feb 2017 – Apr 2020 • Mysore, Karnataka, India (On-site)**  
 - Supported infrastructure operations, troubleshooting, and system performance management.
 
