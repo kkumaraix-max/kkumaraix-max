@@ -59,44 +59,38 @@ I’m a Software Engineer with 9 years of IT experience, specializing in DevOps,
 
 ---
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/BetaNXT_Logo.png" width="28"/> **DevOps Engineer — BetaNXT**
+### <img src="https://raw.githubusercontent.com/github/explore/main/topics/company/company.png" width="26"/> **DevOps Engineer — BetaNXT**
 **May 2024 – Present • Bengaluru, Karnataka, India (Hybrid)**  
 - Working as a DevOps Engineer focusing on automation, infrastructure, CI/CD and cloud-native architecture.
 
 ---
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="28"/> **Site Reliability Engineer — IBM**
+### <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="26"/> **Site Reliability Engineer — IBM**
 **Nov 2022 – May 2024 • Bengaluru, Karnataka, India (Hybrid)**  
 - Ensured application reliability, monitoring, automation, and large-scale system stability.
 
 ---
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Persistent_Systems_Logo.png" width="28"/> **Cloud Engineer — Persistent Systems**
+### <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/persistent-systems.svg" width="26"/> **Cloud Engineer — Persistent Systems**
 **Sep 2021 – Oct 2022 • Nagpur, Maharashtra, India (Remote)**  
 - Built and automated cloud deployments using DevOps and multi-cloud tools.
 
 ---
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/HCL_Technologies_Logo.svg" width="28"/> **Unix System Engineer — HCL Technologies**
+### <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/hcl.svg" width="26"/> **Unix System Engineer — HCL Technologies**
 **May 2020 – Sep 2021 • Nagpur, Maharashtra, India (Remote)**  
 - Managed Unix/Linux systems, automation tasks, and production operations.
 
 ---
 
-### <img src="https://companieslogo.com/wipro/logo/" width="28"/> **System Administrator — Wipro**
+### <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/wipro.svg" width="26"/> **System Administrator — Wipro**
 **Feb 2017 – Apr 2020 • Mysore, Karnataka, India (On-site)**  
 - Supported infrastructure operations, troubleshooting, and system performance management.
 
 ---
 
-
-## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anilkathoju)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anilkathoju@gmail.com)
-
----
-
 # 💻 Tech Stack  
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -104,6 +98,12 @@ I’m a Software Engineer with 9 years of IT experience, specializing in DevOps,
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+---
+
+## 🌐 Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anilkathoju)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anilkathoju@gmail.com)
 
 ---
 
