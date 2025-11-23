@@ -59,7 +59,7 @@ I’m a Software Engineer with 9 years of IT experience, specializing in DevOps,
 
 ---
 
-### <img src="https://raw.githubusercontent.com/github/explore/main/topics/company/company.png" width="26"/> **DevOps Engineer — BetaNXT**
+### <img src="https://instasize.com/p/f2d3b83b0e9b4ce9b6101d9dfe5f78d12de71ed10f67cd359e3ff18bde744156" width="26"/> **DevOps Engineer — BetaNXT**
 **May 2024 – Present • Bengaluru, Karnataka, India (Hybrid)**  
 - Working as a DevOps Engineer focusing on automation, infrastructure, CI/CD and cloud-native architecture.
 
