@@ -21,7 +21,7 @@
 
 <br>
 
-I’m a Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud Automation, and CI/CD for the last 4+ years, building scalable, secure, and automated cloud environments using modern DevOps tooling and Infrastructure-as-Code practices.
+Software Engineer with 9 years of IT experience, specializing in DevOps, Cloud Automation, and CI/CD for the last 4+ years, building scalable and secure cloud environments using modern DevOps tooling and IaC, supported by 4+ years of strong Unix/Linux system expertise.
 
 ---
 
