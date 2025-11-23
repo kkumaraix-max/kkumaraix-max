@@ -59,32 +59,31 @@ I’m a Software Engineer with 9 years of IT experience, specializing in DevOps,
 
 ---
 
-### <img src="https://instasize.com/p/f2d3b83b0e9b4ce9b6101d9dfe5f78d12de71ed10f67cd359e3ff18bde744156" width="26"/> **DevOps Engineer — BetaNXT**
+**DevOps Engineer — BetaNXT**
 **May 2024 – Present • Bengaluru, Karnataka, India (Hybrid)**  
 - Working as a DevOps Engineer focusing on automation, infrastructure, CI/CD and cloud-native architecture.
 
 ---
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="26"/> **Site Reliability Engineer — IBM**
+**Site Reliability Engineer — IBM**
 **Nov 2022 – May 2024 • Bengaluru, Karnataka, India (Hybrid)**  
 - Ensured application reliability, monitoring, automation, and large-scale system stability.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/AnilKathoju/assets/main/logos/persistent.png" width="28"/>
 **Cloud Engineer — Persistent Systems**
 **Sep 2021 – Oct 2022 • Nagpur, Maharashtra, India (Remote)**  
 - Built and automated cloud deployments using DevOps and multi-cloud tools.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/hcl.svg" width="26"/> **Unix System Engineer — HCL Technologies**
+**Unix System Engineer — HCL Technologies**
 **May 2020 – Sep 2021 • Nagpur, Maharashtra, India (Remote)**  
 - Managed Unix/Linux systems, automation tasks, and production operations.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/wipro.svg" width="26"/> **System Administrator — Wipro**
+**System Administrator — Wipro**
 **Feb 2017 – Apr 2020 • Mysore, Karnataka, India (On-site)**  
 - Supported infrastructure operations, troubleshooting, and system performance management.
 
