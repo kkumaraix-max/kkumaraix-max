@@ -71,7 +71,8 @@ I’m a Software Engineer with 9 years of IT experience, specializing in DevOps,
 
 ---
 
-### <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/persistent-systems.svg" width="26"/> **Cloud Engineer — Persistent Systems**
+### <img src="https://raw.githubusercontent.com/AnilKathoju/assets/main/logos/persistent.png" width="28"/>
+**Cloud Engineer — Persistent Systems**
 **Sep 2021 – Oct 2022 • Nagpur, Maharashtra, India (Remote)**  
 - Built and automated cloud deployments using DevOps and multi-cloud tools.
 
