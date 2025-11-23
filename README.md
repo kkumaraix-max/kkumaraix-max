@@ -57,6 +57,8 @@ I’m a Software Engineer with 9 years of IT experience, specializing in DevOps,
 
 ## 🏢 Professional Experience
 
+---
+
 **BetaNXT - DevOps Engineer**
 **(May 2024 – Present)**  
 - Working as a DevOps Engineer focusing on automation, infrastructure, CI/CD and cloud-native architecture.
