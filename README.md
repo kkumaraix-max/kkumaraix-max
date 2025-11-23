@@ -4,7 +4,7 @@
 
 # 💫 About Me  
 👋 Hi, I'm **Kathoju Anil Kumar**  
-🚀 **SRE | DevOps | AWS | Terraform | Ansible | Docker | Kubernetes | Linux | Jenkins | GitHub Actions | Prometheus | Grafana | DevSecOps | Unix | IBM-AIX | IBM Power Systems**
+**SRE | DevOps | AWS | Terraform | Ansible | Docker | Kubernetes | Linux | Jenkins | GitHub Actions | Prometheus | Grafana | DevSecOps | Unix | IBM-AIX | IBM Power Systems**
 <br>
 
 <div align="center">
@@ -54,6 +54,41 @@ I’m a Software Engineer with 9 years of IT experience, specializing in DevOps,
 ✔ Improve system reliability through automation & monitoring  
 
 ---
+
+## 🏢 Professional Experience
+
+---
+
+### <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/BetaNXT_Logo.png" width="28"/> **DevOps Engineer — BetaNXT**
+**May 2024 – Present • Bengaluru, Karnataka, India (Hybrid)**  
+- Working as a DevOps Engineer focusing on automation, infrastructure, CI/CD and cloud-native architecture.
+
+---
+
+### <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="28"/> **Site Reliability Engineer — IBM**
+**Nov 2022 – May 2024 • Bengaluru, Karnataka, India (Hybrid)**  
+- Ensured application reliability, monitoring, automation, and large-scale system stability.
+
+---
+
+### <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Persistent_Systems_Logo.png" width="28"/> **Cloud Engineer — Persistent Systems**
+**Sep 2021 – Oct 2022 • Nagpur, Maharashtra, India (Remote)**  
+- Built and automated cloud deployments using DevOps and multi-cloud tools.
+
+---
+
+### <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/HCL_Technologies_Logo.svg" width="28"/> **Unix System Engineer — HCL Technologies**
+**May 2020 – Sep 2021 • Nagpur, Maharashtra, India (Remote)**  
+- Managed Unix/Linux systems, automation tasks, and production operations.
+
+---
+
+### <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Wipro_Primary_Logo_Color_RGB.svg" width="28"/> **System Administrator — Wipro**
+**Feb 2017 – Apr 2020 • Mysore, Karnataka, India (On-site)**  
+- Supported infrastructure operations, troubleshooting, and system performance management.
+
+---
+
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anilkathoju)  
